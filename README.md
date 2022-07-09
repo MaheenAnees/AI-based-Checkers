@@ -5,7 +5,7 @@ The greater the depth of the minimax tree, the better the move made by the AI. T
 The game ends when either only the pieces of one player are left on the board or when the player who is supposed to go next is locked in and can not make any further moves.
 
 # Gameflow
-![alt text][https://github.com/MaheenAnees/AI-based-Checkers-Game/blob/main/Gameflow.png?raw=true]
+<img src="https://github.com/MaheenAnees/AI-based-Checkers-Game/blob/main/Gameflow.png" width="500" height="500">
 
 # Steps to run the application
 
