@@ -7,8 +7,10 @@ The game ends when either only the pieces of one player are left on the board or
 # Gameflow
 <img src="https://github.com/MaheenAnees/AI-based-Checkers-Game/blob/main/Gameflow.png">
 
-# Steps to run the application
+# Visualization
+<img src="https://github.com/MaheenAnees/AI-based-Checkers-Game/blob/main/InterfaceVisualization.png">
 
+# Steps to run the application
 ## Step 1
 
 cd into the folder named 'frontend' and then run the command 'npm install'. 
@@ -20,7 +22,6 @@ cd back into the main folder named 'AI-based-Checkers' and run the following com
 - python -m venv venv
 - venv\Scripts\activate.bat
 - pip install -r requirements.txt
-
 
 ## Step 3
 
