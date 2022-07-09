@@ -4,7 +4,8 @@ Have created an agent using AI techniques to play the game of checkers intellige
 The greater the depth of the minimax tree, the better the move made by the AI. The evaluation criteria we used to calculate the goodness of a move was that the ego player will prioritize to maximize the number of its own pieces and minimize the number of pieces of the opponent player. We also incentivize maximizing the number of kings for the max player and minimize the number of kings for the min player.
 The game ends when either only the pieces of one player are left on the board or when the player who is supposed to go next is locked in and can not make any further moves.
 
-
+# Gameflow
+![alt text][https://github.com/MaheenAnees/AI-based-Checkers-Game/blob/main/Gameflow.png]
 
 # Steps to run the application
 
